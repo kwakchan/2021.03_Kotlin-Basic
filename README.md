@@ -1,5 +1,8 @@
 # 2021.03_Kotlin-Basic
-
+```
+코틀린 언어로 변수선언, 배열, 함수, 클래스 등을 만드는 예제를 따라한뒤
+합계 구하기, 
+```
 ⑴ varidation declaration
 1. val&var
 -val: varidation never change.
